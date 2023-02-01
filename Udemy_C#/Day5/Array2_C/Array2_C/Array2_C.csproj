@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A62376B0-6815-4E71-A7E7-3D99CF6878BD}</ProjectGuid>
+    <ProjectGuid>{E8D0489B-C444-4522-BA0F-A2558045FEC0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DO</RootNamespace>
-    <AssemblyName>DO</AssemblyName>
+    <RootNamespace>Array2_C</RootNamespace>
+    <AssemblyName>Array2_C</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
